@@ -1,0 +1,31 @@
+body{
+    margin: 0%;
+}
+.container{
+    margin-bottom: 100px;
+}
+.buy-btn{
+    color: white;
+    background-color: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+.sec-slide{
+    background-image: url(hot-gadgets/bg-1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 800px;
+}
+.id{
+    text-align: center;
+}
+.idbtn{
+    text-align: center;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 15px;
+}
+.see{
+    margin-bottom: 50px;
+}
