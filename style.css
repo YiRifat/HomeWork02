@@ -22,10 +22,15 @@ body{
 .idbtn{
     text-align: center;
 }
-.card{
+.card, .bx{
     border: none;
     box-shadow: 5px 5px 15px;
 }
 .see{
     margin-bottom: 50px;
+}
+#bx{
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
